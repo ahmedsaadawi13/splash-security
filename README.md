@@ -100,7 +100,7 @@ SplashSecurity/
 
 ### Step 1: Clone Repository
 ```bash
-git clone https://github.com/yourusername/SplashSecurity.git
+git clone https://github.com/ahmedsaadawi13/SplashSecurity.git
 cd SplashSecurity
 ```
 
